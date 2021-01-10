@@ -1,3 +1,4 @@
+import pytest
 from nearest_square import nearest_square
 
 def test_nearest_square_5():
